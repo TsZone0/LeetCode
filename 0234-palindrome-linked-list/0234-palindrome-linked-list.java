@@ -1,31 +1,54 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ArrayList<Integer>list = new ArrayList<>();
-        ListNode temp = head;
-        
-        while(temp!=null){
-            list.add(temp.val);
-            temp = temp.next;
+        if (head == null || head.next == null) return true;
+
+        // 1) Find middle using slow & fast pointer
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        int right = list.size()-1;
-        int left = 0;
-       while(left<right){
-        if(!list.get(left).equals(list.get(right))){
-            return false;
+
+        // If length is odd, skip the middle node
+        if (fast != null) {
+            slow = slow.next;
         }
-       left++;
-       right--;
-       }
+
+        // 2) Reverse second half
+        ListNode secondHalf = reverseList(slow);
+
+        // 3) Compare first half and second half
+        ListNode firstHalf = head;
+        ListNode tempSecond = secondHalf;
+
+        while (tempSecond != null) {
+            if (firstHalf.val != tempSecond.val) {
+                return false;
+            }
+            firstHalf = firstHalf.next;
+            tempSecond = tempSecond.next;
+        }
+
+        // 4) Optional: restore the list (good practice)
+        // reverseList(secondHalf);
+
         return true;
+    }
+
+    // Reverse linked list function
+    private ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+
+        while (curr != null) {
+            ListNode nextNode = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
+
+        return prev;
     }
 }
