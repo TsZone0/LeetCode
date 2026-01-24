@@ -20,13 +20,14 @@ class Solution {
             list.add(temp.val);
             temp = temp.next;
         }
-        list.sort();
+        Collections.sort(list);
         int i = 0;
         
-        while(head!=null){
-            head.val = list.get(i);
+        ListNode temp2 = head;
+        while(temp2!=null){
+            temp2.val = list.get(i);
             i++;
-            head = head.next;
+            temp2 = temp2.next;
         }
 
         
