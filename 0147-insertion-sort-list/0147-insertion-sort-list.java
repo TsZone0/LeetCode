@@ -24,7 +24,7 @@ class Solution {
         ListNode result = head;
         int i = 0;
         while(result!=null){
-            result = list.get(i);
+            result.val = list.get(i);
             i++;
             result = result.next;
         }
