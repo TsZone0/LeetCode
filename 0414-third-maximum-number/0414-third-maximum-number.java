@@ -1,33 +1,20 @@
+
 class Solution {
     public int thirdMax(int[] nums) {
 
-        Long first = null;
-        Long second = null;
-        Long third = null;
+        Set<Integer> set = new HashSet<>();
 
         for(int n : nums){
-
-            // skip duplicates
-            if(first != null && n == first ||
-               second != null && n == second ||
-               third != null && n == third){
-                continue;
-            }
-
-            if(first == null || n > first){
-                third = second;
-                second = first;
-                first = (long)n;
-            }
-            else if(second == null || n > second){
-                third = second;
-                second = (long)n;
-            }
-            else if(third == null || n > third){
-                third = (long)n;
-            }
+            set.add(n);  
         }
 
-        return third == null ? first.intValue() : third.intValue();
+        List<Integer> list = new ArrayList<>(set);
+        Collections.sort(list);
+
+        if(list.size() < 3){
+            return list.get(list.size()-1); 
+        }
+
+        return list.get(list.size()-3);
     }
 }
