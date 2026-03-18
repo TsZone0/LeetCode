@@ -15,6 +15,7 @@
 | [0258-add-digits](https://github.com/TsZone0/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/TsZone0/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/TsZone0/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0682-baseball-game](https://github.com/TsZone0/LeetCode/tree/main/0682-baseball-game/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/TsZone0/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0682-baseball-game](https://github.com/TsZone0/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/TsZone0/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TsZone0/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0682-baseball-game](https://github.com/TsZone0/LeetCode/tree/main/0682-baseball-game/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
