@@ -38,6 +38,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/TsZone0/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0520-detect-capital](https://github.com/TsZone0/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/TsZone0/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0709-to-lower-case](https://github.com/TsZone0/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
