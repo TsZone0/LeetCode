@@ -39,6 +39,7 @@
 | [0520-detect-capital](https://github.com/TsZone0/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/TsZone0/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0551-student-attendance-record-i](https://github.com/TsZone0/LeetCode/tree/main/0551-student-attendance-record-i/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/TsZone0/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/TsZone0/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/TsZone0/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/TsZone0/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/TsZone0/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
