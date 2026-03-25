@@ -73,6 +73,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0392-is-subsequence](https://github.com/TsZone0/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/TsZone0/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TsZone0/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TsZone0/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0682-baseball-game](https://github.com/TsZone0/LeetCode/tree/main/0682-baseball-game/) | Easy |
 ## Binary Search
@@ -94,4 +96,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0328-odd-even-linked-list](https://github.com/TsZone0/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
