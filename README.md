@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/TsZone0/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0050-powx-n](https://github.com/TsZone0/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0258-add-digits](https://github.com/TsZone0/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/TsZone0/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/TsZone0/LeetCode/tree/main/0415-add-strings/) | Easy |
@@ -100,4 +101,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/TsZone0/LeetCode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
