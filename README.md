@@ -105,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/TsZone0/LeetCode/tree/main/0050-powx-n/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0476-number-complement](https://github.com/TsZone0/LeetCode/tree/main/0476-number-complement/) | Easy |
 <!---LeetCode Topics End-->
