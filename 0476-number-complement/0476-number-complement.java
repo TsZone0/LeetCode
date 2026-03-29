@@ -1,13 +1,13 @@
 class Solution {
     public int findComplement(int num) {
-        int mask = 1;
+        String binary = Integer.toBinaryString(num);
+        StringBuilder flipped = new StringBuilder();
 
-        
-        while(mask <= num) {
-            mask = mask << 1;
+        for(char c : binary.toCharArray()) {
+            if(c == '0') flipped.append('1');
+            else flipped.append('0');
         }
 
-        
-        return (mask - 1) ^ num;
+        return Integer.parseInt(flipped.toString(), 2);
     }
 }
