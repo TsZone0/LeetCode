@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/TsZone0/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/TsZone0/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0202-happy-number](https://github.com/TsZone0/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/TsZone0/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/TsZone0/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/TsZone0/LeetCode/tree/main/0415-add-strings/) | Easy |
@@ -24,6 +25,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/TsZone0/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0383-ransom-note](https://github.com/TsZone0/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/TsZone0/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TsZone0/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -75,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0202-happy-number](https://github.com/TsZone0/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0392-is-subsequence](https://github.com/TsZone0/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/TsZone0/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/TsZone0/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
