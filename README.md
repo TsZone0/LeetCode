@@ -88,6 +88,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/TsZone0/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/TsZone0/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/TsZone0/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0053-maximum-subarray](https://github.com/TsZone0/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/TsZone0/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/TsZone0/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -144,4 +146,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/TsZone0/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/TsZone0/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
