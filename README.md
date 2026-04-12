@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/TsZone0/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/TsZone0/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/TsZone0/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/TsZone0/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/TsZone0/LeetCode/tree/main/0415-add-strings/) | Easy |
@@ -98,6 +99,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/TsZone0/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/TsZone0/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/TsZone0/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/TsZone0/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0162-find-peak-element](https://github.com/TsZone0/LeetCode/tree/main/0162-find-peak-element/) | Medium |
@@ -147,6 +149,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/TsZone0/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/TsZone0/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
