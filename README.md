@@ -32,6 +32,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/TsZone0/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/TsZone0/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0229-majority-element-ii](https://github.com/TsZone0/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/TsZone0/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/TsZone0/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/TsZone0/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TsZone0/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -41,6 +42,7 @@
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/TsZone0/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/TsZone0/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0242-valid-anagram](https://github.com/TsZone0/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/TsZone0/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/TsZone0/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/TsZone0/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -134,6 +136,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/TsZone0/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/TsZone0/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0561-array-partition](https://github.com/TsZone0/LeetCode/tree/main/0561-array-partition/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
