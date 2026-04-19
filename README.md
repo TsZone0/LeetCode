@@ -94,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/TsZone0/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/TsZone0/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0392-is-subsequence](https://github.com/TsZone0/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@
 | [0046-permutations](https://github.com/TsZone0/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/TsZone0/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/TsZone0/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/TsZone0/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/TsZone0/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/TsZone0/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -143,6 +145,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/TsZone0/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0561-array-partition](https://github.com/TsZone0/LeetCode/tree/main/0561-array-partition/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
