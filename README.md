@@ -8,6 +8,7 @@
 | [0050-powx-n](https://github.com/TsZone0/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/TsZone0/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/TsZone0/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/TsZone0/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TsZone0/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/TsZone0/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/TsZone0/LeetCode/tree/main/0415-add-strings/) | Easy |
