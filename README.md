@@ -123,6 +123,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/TsZone0/LeetCode/tree/main/0162-find-peak-element/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/TsZone0/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/TsZone0/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TsZone0/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TsZone0/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0476-number-complement](https://github.com/TsZone0/LeetCode/tree/main/0476-number-complement/) | Easy |
 ## Greedy
@@ -182,6 +184,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TsZone0/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TsZone0/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -190,5 +193,6 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TsZone0/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TsZone0/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
