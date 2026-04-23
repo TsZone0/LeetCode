@@ -195,6 +195,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/TsZone0/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TsZone0/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/TsZone0/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/TsZone0/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,8 +207,13 @@
 | [0222-count-complete-tree-nodes](https://github.com/TsZone0/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TsZone0/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/TsZone0/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/TsZone0/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0404-sum-of-left-leaves](https://github.com/TsZone0/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/TsZone0/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
