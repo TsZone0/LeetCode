@@ -35,6 +35,7 @@
 | [0242-valid-anagram](https://github.com/TsZone0/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/TsZone0/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/TsZone0/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/TsZone0/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TsZone0/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/TsZone0/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
@@ -49,6 +50,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TsZone0/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/TsZone0/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/TsZone0/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/TsZone0/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/TsZone0/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0520-detect-capital](https://github.com/TsZone0/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/TsZone0/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
@@ -184,6 +186,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/TsZone0/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/TsZone0/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
