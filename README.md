@@ -74,6 +74,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/TsZone0/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/TsZone0/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/TsZone0/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/TsZone0/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TsZone0/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/TsZone0/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Design
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/TsZone0/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/TsZone0/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TsZone0/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 |  |
@@ -132,6 +134,7 @@
 | [0561-array-partition](https://github.com/TsZone0/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0682-baseball-game](https://github.com/TsZone0/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/TsZone0/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/TsZone0/LeetCode/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
