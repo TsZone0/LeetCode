@@ -134,6 +134,7 @@
 | [0073-set-matrix-zeroes](https://github.com/TsZone0/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/TsZone0/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TsZone0/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/TsZone0/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/TsZone0/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -150,6 +151,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TsZone0/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/TsZone0/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/TsZone0/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
