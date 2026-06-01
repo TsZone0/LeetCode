@@ -88,6 +88,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/TsZone0/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/TsZone0/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0707-design-linked-list](https://github.com/TsZone0/LeetCode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/TsZone0/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 |  |
@@ -161,6 +162,7 @@
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/TsZone0/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/TsZone0/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/TsZone0/LeetCode/tree/master/0707-design-linked-list) |
 ## Sorting
 |  |
 | ------- |
