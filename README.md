@@ -7,6 +7,7 @@
 | [0043-multiply-strings](https://github.com/TsZone0/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/TsZone0/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/TsZone0/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/TsZone0/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TsZone0/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/TsZone0/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TsZone0/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -25,6 +26,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TsZone0/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TsZone0/LeetCode/tree/main/0258-add-digits/) | Easy |
 ## Hash Table
 |  |
@@ -138,6 +140,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TsZone0/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/TsZone0/LeetCode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/TsZone0/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/TsZone0/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/TsZone0/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TsZone0/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -257,4 +260,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/TsZone0/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TsZone0/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
