@@ -14,6 +14,7 @@
 | [0412-fizz-buzz](https://github.com/TsZone0/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/TsZone0/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/TsZone0/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0633-sum-of-square-numbers](https://github.com/TsZone0/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/TsZone0/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/TsZone0/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TsZone0/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0633-sum-of-square-numbers](https://github.com/TsZone0/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/TsZone0/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Dynamic Programming
 |  |
@@ -162,6 +164,7 @@
 | [0162-find-peak-element](https://github.com/TsZone0/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/TsZone0/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/TsZone0/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/TsZone0/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/TsZone0/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TsZone0/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Linked List
