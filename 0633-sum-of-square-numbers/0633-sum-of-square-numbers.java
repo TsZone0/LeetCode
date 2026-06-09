@@ -1,13 +1,21 @@
 class Solution {
     public boolean judgeSquareSum(int c) {
 
-        for (long a = 0; a * a <= c; a++) {
+        long left = 0;
+        long right = (long)Math.sqrt(c);
 
-            long bSquare = c - a * a;
-            long b = (long) Math.sqrt(bSquare);
+        while (left <= right) {
 
-            if (b * b == bSquare) {
+            long sum = left * left + right * right;
+
+            if (sum == c) {
                 return true;
+            } 
+            else if (sum < c) {
+                left++;
+            } 
+            else {
+                right--;
             }
         }
 
