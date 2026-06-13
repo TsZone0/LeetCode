@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/TsZone0/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/TsZone0/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TsZone0/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/TsZone0/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/TsZone0/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -52,6 +53,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/TsZone0/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/TsZone0/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/TsZone0/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/TsZone0/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/TsZone0/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/TsZone0/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -145,6 +147,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/TsZone0/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/TsZone0/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/TsZone0/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TsZone0/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/TsZone0/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/TsZone0/LeetCode/tree/main/0055-jump-game/) | Medium |
@@ -191,6 +194,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TsZone0/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0179-largest-number](https://github.com/TsZone0/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/TsZone0/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
