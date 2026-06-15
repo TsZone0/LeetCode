@@ -3,7 +3,7 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         boolean[] used = new boolean[s.length()];
 
-        // Add characters according to order
+
         for (int i = 0; i < order.length(); i++) {
             for (int j = 0; j < s.length(); j++) {
                 if (order.charAt(i) == s.charAt(j)) {
