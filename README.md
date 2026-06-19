@@ -37,6 +37,7 @@
 | [0073-set-matrix-zeroes](https://github.com/TsZone0/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/TsZone0/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/TsZone0/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/TsZone0/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TsZone0/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/TsZone0/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/TsZone0/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -161,6 +162,7 @@
 | [0162-find-peak-element](https://github.com/TsZone0/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/TsZone0/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/TsZone0/LeetCode/tree/master/0204-count-primes) |
+| [0219-contains-duplicate-ii](https://github.com/TsZone0/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/TsZone0/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/TsZone0/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/TsZone0/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -255,6 +257,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/TsZone0/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/TsZone0/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/TsZone0/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/TsZone0/LeetCode/tree/master/0643-maximum-average-subarray-i) |
