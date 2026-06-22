@@ -6,6 +6,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/TsZone0/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/TsZone0/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TsZone0/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/TsZone0/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/TsZone0/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TsZone0/LeetCode/tree/main/0258-add-digits/) | Easy |
@@ -90,6 +91,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TsZone0/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/TsZone0/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/TsZone0/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/TsZone0/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -162,6 +164,7 @@
 | [0073-set-matrix-zeroes](https://github.com/TsZone0/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/TsZone0/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TsZone0/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/TsZone0/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/TsZone0/LeetCode/tree/master/0179-largest-number) |
