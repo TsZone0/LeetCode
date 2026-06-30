@@ -18,7 +18,7 @@ class Solution {
             }
         }
 
-        // Convert HashSet to int[]
+        
         int[] ans = new int[result.size()];
         int i = 0;
 
