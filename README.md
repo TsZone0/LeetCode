@@ -55,6 +55,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/TsZone0/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TsZone0/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TsZone0/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/TsZone0/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/TsZone0/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/TsZone0/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/TsZone0/LeetCode/tree/master/0791-custom-sort-string) |
@@ -107,6 +108,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/TsZone0/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/TsZone0/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/TsZone0/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/TsZone0/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TsZone0/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/TsZone0/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/TsZone0/LeetCode/tree/master/0739-daily-temperatures) |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/TsZone0/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/TsZone0/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TsZone0/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/TsZone0/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/TsZone0/LeetCode/tree/main/0901-online-stock-span/) | Medium |
@@ -197,6 +200,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/TsZone0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TsZone0/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TsZone0/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/TsZone0/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/TsZone0/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/TsZone0/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TsZone0/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
