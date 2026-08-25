@@ -177,6 +177,7 @@
 | [0031-next-permutation](https://github.com/TsZone0/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/TsZone0/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/TsZone0/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/TsZone0/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/TsZone0/LeetCode/tree/master/0049-group-anagrams) |
@@ -285,6 +286,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/TsZone0/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/TsZone0/LeetCode/tree/main/0046-permutations/) | Medium |
 ## Matrix
 |  |
