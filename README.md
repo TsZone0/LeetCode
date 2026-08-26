@@ -339,6 +339,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/TsZone0/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TsZone0/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TsZone0/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/TsZone0/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TsZone0/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TsZone0/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TsZone0/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -355,6 +356,7 @@
 | [0404-sum-of-left-leaves](https://github.com/TsZone0/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/TsZone0/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TsZone0/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/TsZone0/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TsZone0/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TsZone0/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TsZone0/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -385,6 +387,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/TsZone0/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/TsZone0/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TsZone0/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/TsZone0/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TsZone0/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TsZone0/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TsZone0/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
