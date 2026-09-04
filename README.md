@@ -178,6 +178,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/TsZone0/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/TsZone0/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/TsZone0/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/TsZone0/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/TsZone0/LeetCode/tree/master/0049-group-anagrams) |
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TsZone0/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/TsZone0/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TsZone0/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/TsZone0/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TsZone0/LeetCode/tree/master/0090-subsets-ii) |
