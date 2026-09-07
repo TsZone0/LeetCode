@@ -181,6 +181,7 @@
 | [0040-combination-sum-ii](https://github.com/TsZone0/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/TsZone0/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/TsZone0/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/TsZone0/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/TsZone0/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TsZone0/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/TsZone0/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
@@ -250,6 +251,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/TsZone0/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/TsZone0/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/TsZone0/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/TsZone0/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -295,6 +297,7 @@
 | [0039-combination-sum](https://github.com/TsZone0/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TsZone0/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TsZone0/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/TsZone0/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/TsZone0/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/TsZone0/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TsZone0/LeetCode/tree/master/0090-subsets-ii) |
