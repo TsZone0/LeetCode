@@ -63,6 +63,7 @@
 | [0791-custom-sort-string](https://github.com/TsZone0/LeetCode/tree/master/0791-custom-sort-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TsZone0/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TsZone0/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TsZone0/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0709-to-lower-case](https://github.com/TsZone0/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0791-custom-sort-string](https://github.com/TsZone0/LeetCode/tree/master/0791-custom-sort-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TsZone0/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TsZone0/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/TsZone0/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/TsZone0/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/TsZone0/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -102,6 +104,7 @@
 | [0383-ransom-note](https://github.com/TsZone0/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/TsZone0/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/TsZone0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TsZone0/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -342,6 +345,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/TsZone0/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/TsZone0/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TsZone0/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TsZone0/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TsZone0/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/TsZone0/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/TsZone0/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
