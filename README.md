@@ -64,6 +64,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TsZone0/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TsZone0/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TsZone0/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## String
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/TsZone0/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TsZone0/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TsZone0/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0287-find-the-duplicate-number](https://github.com/TsZone0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TsZone0/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0476-number-complement](https://github.com/TsZone0/LeetCode/tree/main/0476-number-complement/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Greedy
 |  |
 | ------- |
@@ -348,6 +351,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TsZone0/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TsZone0/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/TsZone0/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/TsZone0/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Union-Find
 |  |
@@ -453,4 +457,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TsZone0/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
