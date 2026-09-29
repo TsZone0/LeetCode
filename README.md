@@ -60,6 +60,7 @@
 | [0567-permutation-in-string](https://github.com/TsZone0/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/TsZone0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TsZone0/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/TsZone0/LeetCode/tree/master/0705-design-hashset) |
 | [0791-custom-sort-string](https://github.com/TsZone0/LeetCode/tree/master/0791-custom-sort-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TsZone0/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TsZone0/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -130,6 +131,7 @@
 | [0155-min-stack](https://github.com/TsZone0/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/TsZone0/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/TsZone0/LeetCode/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/TsZone0/LeetCode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/TsZone0/LeetCode/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/TsZone0/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
@@ -228,6 +230,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TsZone0/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TsZone0/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/TsZone0/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0705-design-hashset](https://github.com/TsZone0/LeetCode/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/TsZone0/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/TsZone0/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TsZone0/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -264,6 +267,7 @@
 | [0328-odd-even-linked-list](https://github.com/TsZone0/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/TsZone0/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/TsZone0/LeetCode/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/TsZone0/LeetCode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/TsZone0/LeetCode/tree/master/0707-design-linked-list) |
 ## Sorting
 |  |
@@ -465,4 +469,8 @@
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/TsZone0/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
