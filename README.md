@@ -18,6 +18,7 @@
 | [0445-add-two-numbers-ii](https://github.com/TsZone0/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TsZone0/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/TsZone0/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/TsZone0/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/TsZone0/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TsZone0/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
