@@ -11,6 +11,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/TsZone0/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/TsZone0/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/TsZone0/LeetCode/tree/master/0204-count-primes) |
+| [0233-number-of-digit-one](https://github.com/TsZone0/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/TsZone0/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/TsZone0/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TsZone0/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -185,6 +186,7 @@
 | [0053-maximum-subarray](https://github.com/TsZone0/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/TsZone0/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/TsZone0/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0233-number-of-digit-one](https://github.com/TsZone0/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/TsZone0/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Array
 |  |
@@ -295,6 +297,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TsZone0/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0233-number-of-digit-one](https://github.com/TsZone0/LeetCode/tree/master/0233-number-of-digit-one) |
 ## Bit Manipulation
 |  |
 | ------- |
