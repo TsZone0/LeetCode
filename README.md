@@ -226,6 +226,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TsZone0/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0475-heaters](https://github.com/TsZone0/LeetCode/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/TsZone0/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/TsZone0/LeetCode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/TsZone0/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/TsZone0/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TsZone0/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -287,6 +288,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/TsZone0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TsZone0/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/TsZone0/LeetCode/tree/master/0475-heaters) |
+| [0506-relative-ranks](https://github.com/TsZone0/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/TsZone0/LeetCode/tree/main/0561-array-partition/) | Easy |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TsZone0/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/TsZone0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -466,6 +468,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TsZone0/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/TsZone0/LeetCode/tree/master/0506-relative-ranks) |
 ## Merge Sort
 |  |
 | ------- |
