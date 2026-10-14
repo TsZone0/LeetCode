@@ -184,6 +184,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TsZone0/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/TsZone0/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/TsZone0/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TsZone0/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -280,6 +281,7 @@
 | [0705-design-hashset](https://github.com/TsZone0/LeetCode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/TsZone0/LeetCode/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/TsZone0/LeetCode/tree/master/0817-linked-list-components) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TsZone0/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
