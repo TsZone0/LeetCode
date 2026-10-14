@@ -67,6 +67,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TsZone0/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/TsZone0/LeetCode/tree/master/0705-design-hashset) |
 | [0791-custom-sort-string](https://github.com/TsZone0/LeetCode/tree/master/0791-custom-sort-string) |
+| [0817-linked-list-components](https://github.com/TsZone0/LeetCode/tree/master/0817-linked-list-components) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/TsZone0/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TsZone0/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TsZone0/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -241,6 +242,7 @@
 | [0705-design-hashset](https://github.com/TsZone0/LeetCode/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/TsZone0/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/TsZone0/LeetCode/tree/master/0739-daily-temperatures) |
+| [0817-linked-list-components](https://github.com/TsZone0/LeetCode/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TsZone0/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TsZone0/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TsZone0/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -277,6 +279,7 @@
 | [0622-design-circular-queue](https://github.com/TsZone0/LeetCode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/TsZone0/LeetCode/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/TsZone0/LeetCode/tree/master/0707-design-linked-list) |
+| [0817-linked-list-components](https://github.com/TsZone0/LeetCode/tree/master/0817-linked-list-components) |
 ## Sorting
 |  |
 | ------- |
