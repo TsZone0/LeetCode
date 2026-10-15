@@ -34,6 +34,7 @@
 | [0415-add-strings](https://github.com/TsZone0/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/TsZone0/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/TsZone0/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/TsZone0/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Number Theory
 |  |
 | ------- |
@@ -283,6 +284,7 @@
 | [0707-design-linked-list](https://github.com/TsZone0/LeetCode/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/TsZone0/LeetCode/tree/master/0817-linked-list-components) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TsZone0/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/TsZone0/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sorting
 |  |
 | ------- |
