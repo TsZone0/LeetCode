@@ -497,4 +497,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/TsZone0/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/TsZone0/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
