@@ -160,6 +160,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/TsZone0/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/TsZone0/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/TsZone0/LeetCode/tree/master/0622-design-circular-queue) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TsZone0/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +250,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/TsZone0/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TsZone0/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TsZone0/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -321,6 +323,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TsZone0/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0476-number-complement](https://github.com/TsZone0/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TsZone0/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
@@ -357,6 +360,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/TsZone0/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/TsZone0/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/TsZone0/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TsZone0/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -378,6 +382,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TsZone0/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/TsZone0/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TsZone0/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/TsZone0/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Union-Find
 |  |
