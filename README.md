@@ -14,6 +14,7 @@
 | [0233-number-of-digit-one](https://github.com/TsZone0/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/TsZone0/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/TsZone0/LeetCode/tree/main/0263-ugly-number/) | Easy |
+| [0273-integer-to-english-words](https://github.com/TsZone0/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TsZone0/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/TsZone0/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/TsZone0/LeetCode/tree/main/0415-add-strings/) | Easy |
@@ -84,6 +85,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/TsZone0/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/TsZone0/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/TsZone0/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0273-integer-to-english-words](https://github.com/TsZone0/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/TsZone0/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/TsZone0/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/TsZone0/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -315,6 +317,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/TsZone0/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0233-number-of-digit-one](https://github.com/TsZone0/LeetCode/tree/master/0233-number-of-digit-one) |
+| [0273-integer-to-english-words](https://github.com/TsZone0/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Bit Manipulation
 |  |
 | ------- |
