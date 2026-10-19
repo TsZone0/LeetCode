@@ -1,5 +1,5 @@
 class Solution {
-    // Arrays to map numbers to their English words
+
     private final String[] LESS_THAN_20 = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
     private final String[] TENS = {"", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
     private final String[] THOUSANDS = {"", "Thousand", "Million", "Billion"};
@@ -10,7 +10,7 @@ class Solution {
         int i = 0;
         String words = "";
         
-        // Process the number in groups of 3 digits (thousands)
+
         while (num > 0) {
             if (num % 1000 != 0) {
                 words = helper(num % 1000) + THOUSANDS[i] + " " + words;
