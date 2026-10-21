@@ -24,6 +24,7 @@
 | [0728-self-dividing-numbers](https://github.com/TsZone0/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TsZone0/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/TsZone0/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/TsZone0/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/TsZone0/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
