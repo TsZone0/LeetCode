@@ -36,6 +36,7 @@
 | [0415-add-strings](https://github.com/TsZone0/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/TsZone0/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/TsZone0/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/TsZone0/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TsZone0/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Number Theory
 |  |
@@ -192,6 +193,7 @@
 | [0680-valid-palindrome-ii](https://github.com/TsZone0/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/TsZone0/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TsZone0/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/TsZone0/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/TsZone0/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TsZone0/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TsZone0/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/TsZone0/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TsZone0/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
