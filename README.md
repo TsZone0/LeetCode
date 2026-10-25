@@ -107,6 +107,7 @@
 | [0680-valid-palindrome-ii](https://github.com/TsZone0/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/TsZone0/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0791-custom-sort-string](https://github.com/TsZone0/LeetCode/tree/master/0791-custom-sort-string) |
+| [0796-rotate-string](https://github.com/TsZone0/LeetCode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TsZone0/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TsZone0/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/TsZone0/LeetCode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -516,4 +517,8 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/TsZone0/LeetCode/tree/master/0182-duplicate-emails) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/TsZone0/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
