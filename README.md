@@ -76,6 +76,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/TsZone0/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TsZone0/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TsZone0/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/TsZone0/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -122,6 +123,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/TsZone0/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/TsZone0/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TsZone0/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TsZone0/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TsZone0/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TsZone0/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/TsZone0/LeetCode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/TsZone0/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TsZone0/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
