@@ -252,6 +252,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/TsZone0/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/TsZone0/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/TsZone0/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/TsZone0/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/TsZone0/LeetCode/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/TsZone0/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/TsZone0/LeetCode/tree/master/0739-daily-temperatures) |
@@ -278,6 +279,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/TsZone0/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/TsZone0/LeetCode/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/TsZone0/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/TsZone0/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/TsZone0/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TsZone0/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TsZone0/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
