@@ -229,6 +229,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/TsZone0/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TsZone0/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TsZone0/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/TsZone0/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0179-largest-number](https://github.com/TsZone0/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/TsZone0/LeetCode/tree/master/0204-count-primes) |
@@ -270,6 +271,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TsZone0/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TsZone0/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/TsZone0/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/TsZone0/LeetCode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/TsZone0/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/TsZone0/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
