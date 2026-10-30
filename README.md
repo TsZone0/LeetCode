@@ -262,6 +262,7 @@
 | [0817-linked-list-components](https://github.com/TsZone0/LeetCode/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/TsZone0/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TsZone0/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1672-richest-customer-wealth](https://github.com/TsZone0/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TsZone0/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/TsZone0/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TsZone0/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -372,6 +373,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/TsZone0/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/TsZone0/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/TsZone0/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
