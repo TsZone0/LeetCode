@@ -15,6 +15,7 @@
 | [0258-add-digits](https://github.com/TsZone0/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/TsZone0/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0273-integer-to-english-words](https://github.com/TsZone0/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0367-valid-perfect-square](https://github.com/TsZone0/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/TsZone0/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/TsZone0/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/TsZone0/LeetCode/tree/main/0415-add-strings/) | Easy |
@@ -285,6 +286,7 @@
 | [0287-find-the-duplicate-number](https://github.com/TsZone0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TsZone0/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/TsZone0/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/TsZone0/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/TsZone0/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/TsZone0/LeetCode/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/TsZone0/LeetCode/tree/master/0633-sum-of-square-numbers) |
